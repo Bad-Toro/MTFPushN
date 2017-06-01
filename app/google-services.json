@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "551218825463",
+    "firebase_url": "https://boiling-inferno-5947.firebaseio.com",
+    "project_id": "boiling-inferno-5947",
+    "storage_bucket": "boiling-inferno-5947.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551218825463:android:94a16651759ab4f2",
+        "android_client_info": {
+          "package_name": "com.mobileappscompany.training.mtfirebase1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551218825463-soh6lr1njdifgfnaqa4ah4792ap53nfo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobileappscompany.training.mtfirebase1",
+            "certificate_hash": "42230b181be9141ff56c9899484ca50cb63fe509"
+          }
+        },
+        {
+          "client_id": "551218825463-smeqasmce976m8q6f0cuhvqv8itgl2me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBea5zyhABV0F6zM-YnLGt4dTlBpyHm95Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551218825463-smeqasmce976m8q6f0cuhvqv8itgl2me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551218825463:android:be9f87985238d515",
+        "android_client_info": {
+          "package_name": "com.mobileappscompany.training.mtfirebasedb1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551218825463-ricmt5oega1q8l68q5gdqgq10ac98g6l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobileappscompany.training.mtfirebasedb1",
+            "certificate_hash": "42230b181be9141ff56c9899484ca50cb63fe509"
+          }
+        },
+        {
+          "client_id": "551218825463-smeqasmce976m8q6f0cuhvqv8itgl2me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBea5zyhABV0F6zM-YnLGt4dTlBpyHm95Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551218825463-smeqasmce976m8q6f0cuhvqv8itgl2me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551218825463:android:9d99dca8d176a86d",
+        "android_client_info": {
+          "package_name": "com.mobileappscompany.training.mtfpushn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551218825463-ahu24s4c0lrdr21aojs01aa0m9cgb62d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mobileappscompany.training.mtfpushn",
+            "certificate_hash": "42230b181be9141ff56c9899484ca50cb63fe509"
+          }
+        },
+        {
+          "client_id": "551218825463-smeqasmce976m8q6f0cuhvqv8itgl2me.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBea5zyhABV0F6zM-YnLGt4dTlBpyHm95Q"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551218825463-smeqasmce976m8q6f0cuhvqv8itgl2me.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
